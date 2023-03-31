@@ -27,6 +27,7 @@ The conference dataset hosted in this repository tracks the following informatio
 | [Functional Scala](https://functionalscala.com) | Ziverge | Yes | Yes | Partial | Never |
 | [LambdaConf](https://lambdaconf.us) | Ziverge | Yes | Yes | Partial | Never |
 | [ZIO World](https://zioworld.com) | Ziverge | Yes | Yes | No | Never |
+| [ScalarConf](https://www.scalar-conf.com) | Software Mill | No | Yes | No | Never | 
 
 ## Contributing
 
