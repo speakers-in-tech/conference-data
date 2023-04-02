@@ -26,6 +26,7 @@ The conference dataset hosted in this repository tracks the following informatio
 |------------|-----------|-----------|--------------|---------------------|----------------------|  
 | [Functional Scala](https://functionalscala.com) | Ziverge | Yes | Yes | Partial | Never |
 | [LambdaConf](https://lambdaconf.us) | Ziverge | Yes | Yes | Partial | Never |
+| [Scala.IO](https://scala.io) | Scala.IO | "I would prefer not to" | Yes | "Full, to the capacity of the funds" | Never |
 | [ZIO World](https://zioworld.com) | Ziverge | Yes | Yes | No | Never |
 
 ## Contributing
