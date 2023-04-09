@@ -7,25 +7,26 @@ More background on this initiative is contained in the blog post, [The Dark Side
 
 All information in this repository is provided on a _best-effort_ basis. If an organizer of any tech conference identifies inaccuracies in the data provided, then we encourage them to submit a pull request to the repository.
 
-**Note on Disputes**: In the event of disputes between an organizer's stated policies and speakers' experience, we will note both the organizer's stated policies, as well as the experience of speakers.
+**Note on Disputes**: In the event of disputes between an organizer's stated policies and speakers' experience with this event, we will note both the organizer's stated policies, as well as the experience of speakers.
 
 ## Interpreting the Data
+
 The conference dataset hosted in this repository tracks the following information:
 
 1. **Conference**. The conference column lists the name of some tech conference, and links to the event's primary home page. If the event does not have a primary home page, because the website is seasonal, then the event name may link to the organizer of the conference.
 2. **Organizer**. The organizer column lists the organizer of the tech conference. In most cases, this is an organization. In some cases, it may be an individual. In cases where it is a partnership of individuals, the name will either link to one individual (a public primary organizer), or none at all (in the event there is no public primary organizer).
 3. **SEA**. _SEA_ stands for _Speaker Engagement Agreement_, and refers to the [Speaker Engagement Agreement](https://github.com/speakers-in-tech/sea/blob/main/SEA.md), a legally binding contract between speaker and organizer that sets out the terms and conditions of a speaking engagement. The SEA has strong provisions to protect the rights of speakers, ensuring they are not mistreated or abused. If an organizer is known to be willing to sign the SEA upon request, then you will find a `Yes` in this column. Otherwise, you will find a `No`.
-4. **Free Ticket**. This column tracks whether a tech conference provides speakers with a free ticket. The vast majority of tech conferences provide speakers with a free ticket, but some require speakers pay for tickets as well as attendees.
+4. **Free Ticket**. This column tracks whether a tech conference provides speakers with a free ticket. The vast majority of tech conferences provide speakers with a free ticket, but some events require speakers to pay for tickets, in the same fashion as attendees.
 5. **Reimburse Expenses**. This column tracks whether a tech conference is known to reimburse speakers for their travel expenses involved in speaking at a conference. The possible values are `Full`, `Partial`, and `No`. Note that hotel accommodations are considered a form of partial reimbursement. Full reimbursement would include travel to and from the event, as well as hotel accommodations, and a per diem for food and beverages.
-6. **Compensate Speakers**. This column tracks whether a tech conference is known to pay speakers for their engagements. The possible values are `Sometimes`, `Always`, and `Never`. Most tech conferences do not compensate speakers, although a few provide compensation for keynotes or workshops or other sessions of extended duration.
-  
+6. **Compensate Speakers**. This column tracks whether a tech conference is known to pay speakers for their engagements. The possible values are `Never` or the category of presentation the event reimburses for. Most tech conferences do not compensate speakers for standard-length talks, although a few provide compensation for keynotes or workshops or other sessions of extended duration.
+
   
 ## Conference Dataset
   
 | Conference | Organizer | Sign SEA? | Free Ticket? | Reimburse Expenses? | Compensate Speakers? |  
 |------------|-----------|-----------|--------------|---------------------|----------------------|  
 | [Functional Scala](https://functionalscala.com) | Ziverge | Yes | Yes | Partial | Never |
-| [LambdaConf](https://lambdaconf.us) | Ziverge | Yes | Yes | Partial | Never |
+| [LambdaConf](https://lambdaconf.us) | Ziverge | Yes | Yes | Partial | Workshops |
 | [ZIO World](https://zioworld.com) | Ziverge | Yes | Yes | No | Never |
 | [ScalarConf](https://www.scalar-conf.com) | Software Mill | No | Yes | No | Never | 
 
