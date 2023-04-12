@@ -29,6 +29,7 @@ The conference dataset hosted in this repository tracks the following informatio
 | [LambdaConf](https://lambdaconf.us) | Ziverge | Yes | Yes | Partial | Workshops |
 | [ZIO World](https://zioworld.com) | Ziverge | Yes | Yes | No | Never |
 | [ScalarConf](https://www.scalar-conf.com) | Software Mill | No | Yes | No | Never | 
+| [PyCon](https://pycon.org) | PyCon Board Committee | Pending | No | Yes | Keynote |
 
 ## Contributing
 
