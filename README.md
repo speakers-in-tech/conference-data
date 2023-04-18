@@ -30,7 +30,7 @@ The conference dataset hosted in this repository tracks the following informatio
 | [ZIO World](https://zioworld.com) | Ziverge | Yes | Yes | No | Never |
 | [ScalarConf](https://www.scalar-conf.com) | Software Mill | No | Yes | No | Never | 
 | [PyCon](https://pycon.org) | PyCon Board Committee | Pending | No | Yes | Keynote |
-| [JSConf](https://jsconf.com/) | Local Community | No | Yes | Partial | Yes | 
+| [JSConf](https://jsconf.com/) | Local Community | Varies | Yes | Partial | Yes | 
 
 
 ## Contributing
