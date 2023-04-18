@@ -20,16 +20,17 @@ The conference dataset hosted in this repository tracks the following informatio
 5. **Reimburse Expenses**. This column tracks whether a tech conference is known to reimburse speakers for their travel expenses involved in speaking at a conference. The possible values are `Full`, `Partial`, and `No`. Note that hotel accommodations are considered a form of partial reimbursement. Full reimbursement would include travel to and from the event, as well as hotel accommodations, and a per diem for food and beverages.
 6. **Compensate Speakers**. This column tracks whether a tech conference is known to pay speakers for their engagements. The possible values are `Never` or the category of presentation the event reimburses for. Most tech conferences do not compensate speakers for standard-length talks, although a few provide compensation for keynotes or workshops or other sessions of extended duration.
 
-  
 ## Conference Dataset
-  
-| Conference | Organizer | Sign SEA? | Free Ticket? | Reimburse Expenses? | Compensate Speakers? |  
-|------------|-----------|-----------|--------------|---------------------|----------------------|  
-| [Functional Scala](https://functionalscala.com) | Ziverge | Yes | Yes | Partial | Never |
-| [LambdaConf](https://lambdaconf.us) | Ziverge | Yes | Yes | Partial | Workshops |
-| [ZIO World](https://zioworld.com) | Ziverge | Yes | Yes | No | Never |
-| [ScalarConf](https://www.scalar-conf.com) | Software Mill | No | Yes | No | Never | 
-| [PyCon](https://pycon.org) | PyCon Board Committee | Pending | No | Yes | Keynote |
+
+| Conference                                                        | Organizer                      | Sign SEA?      | Free Ticket? | Reimburse Expenses? | Compensate Speakers? |
+| ----------------------------------------------------------------- | ------------------------------ | -------------- | ------------ | ------------------- | -------------------- |
+| [Functional Scala](https://functionalscala.com)                   | Ziverge                        | Yes            | Yes          | Partial             | Never                |
+| [LambdaConf](https://lambdaconf.us)                               | Ziverge                        | Yes            | Yes          | Partial             | Workshops            |
+| [ZIO World](https://zioworld.com)                                 | Ziverge                        | Yes            | Yes          | No                  | Never                |
+| [ScalarConf](https://www.scalar-conf.com)                         | Software Mill                  | No             | Yes          | No                  | Never                |
+| [PyCon](https://pycon.org)                                        | PyCon Board Committee          | Pending        | No           | Yes                 | Keynote              |
+| [Scala Days &mdash; Seattle](https://scaladays.org/seattle-2023/) | Xebia Functional, scala center | No information | No           | No                  | No info              |
+| [Scala Days &mdash; Madrid](https://scaladays.org/madrid-2023/)   | Xebia Functional, scala center | No information | No           | No                  | No info              |
 
 ## Contributing
 
@@ -42,11 +43,11 @@ We welcome new data into this open-source dataset! Please reach out to the organ
 5. To what extent will the organizer reimburse a speaker for expenses incurred in traveling to and delivering a talk?
 6. In what circumstances would the organizer compensate speaker for their talk?
 
-If you want to amend or add information to the table, please follow these steps:  
-  
-4. Fork the `speakers-in-tech/conference-data` repository on Github.com.  
-5. Make changes to the `README.md` file using Markdown syntax.  
+If you want to amend or add information to the table, please follow these steps:
+
+4. Fork the `speakers-in-tech/conference-data` repository on Github.com.
+5. Make changes to the `README.md` file using Markdown syntax.
 6. Ensure that the changes are consistent with the existing format of the table, and that you insert data for new conferences alphabetically by conference name.
-7. Save your changes and submit a pull request with a brief explanation of the changes you made.  
+7. Save your changes and submit a pull request with a brief explanation of the changes you made.
 8. If you are not the organizer, please explain how you acquired the information you are adding to the table.
-9. Once your pull request is reviewed and merged, the changes will be updated to the main branch of the repository.  
+9. Once your pull request is reviewed and merged, the changes will be updated to the main branch of the repository.
