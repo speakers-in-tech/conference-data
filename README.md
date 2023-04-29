@@ -36,7 +36,7 @@ The conference dataset hosted in this repository tracks the following informatio
 
 
 
-## Contributing
+## Contributing Guidelines
 
 We welcome new data into this open-source dataset! Please reach out to the organizers of tech conferences inside your own community or domain, and ask them the following questions:
 
