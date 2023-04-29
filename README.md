@@ -1,7 +1,7 @@
 ## Tech Conference Data
 
 This repository attempts to maintain comprehensive, high-quality data about tech conferences, focusing on their policies regarding the engagement of speakers, and in particular, whether or not organizers have indicated a willingness to stand up for the rights of speakers by signing the official [Speaker Engagement Agreement](https://github.com/speakers-in-tech/sea/blob/main/SEA.md).
-More background on this initiative is contained in the blog post, [The Dark Side of Speaking at Tech Conferences](https://www.linkedin.com/pulse/dark-side-speaking-tech-conferences-john-de-goes/?trackingId=U6NAMEIvQr2LFDGbv4A4%2Fw%3D%3D).
+More background on this initiative is contained in the blog post, [The Dark Side of Speaking at Tech Conferences](https://www.linkedin.com/pulse/dark-side-speaking-tech-conferences-john-de-goes/?trackingId=U6NAMEIvQr2LFDGbv4A4%2Fw%3D%3D). 
 
 ## Disclaimer
 
