@@ -32,9 +32,8 @@ The conference dataset hosted in this repository tracks the following informatio
 | [ScalarConf](https://www.scalar-conf.com) | [Software Mill](https://softwaremill.com/) | No | Yes | No | Never | 
 | [PyCon](https://pycon.org) | PyCon Board Committee | Pending | No | Yes | Keynote |
 | [JSConf](https://jsconf.com/) | Local Community | Varies | Yes | Partial | Yes | 
-| [NESCALA](https://github.com/nescalas/nescalas.github.io) | Volunteers | No | Partial | No | Never | 
-
-
+| [NESCALA](https://github.com/nescalas/nescalas.github.io) | Volunteers | No | Partial | No | Never |
+| [CodeMash](https://www.codemash.org/) | CodeMash Community | Yes | Yes | Partial | Yes |
 
 ## Contributing
 
