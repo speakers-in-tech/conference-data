@@ -33,7 +33,7 @@ The conference dataset hosted in this repository tracks the following informatio
 | [PyCon](https://pycon.org) | PyCon Board Committee | Pending | No | Yes | Keynote |
 | [JSConf](https://jsconf.com/) | Local Community | Varies | Yes | Partial | Yes | 
 | [NESCALA](https://github.com/nescalas/nescalas.github.io) | Volunteers | No | Partial | No | Never | 
-
+| [Øredev](https://oredev.org/) | [Öredev AB](https://oredev.org) | No | No | No | Never | 
 
 
 ## Contributing
