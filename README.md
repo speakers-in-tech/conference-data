@@ -36,6 +36,8 @@ The conference dataset hosted in this repository tracks the following informatio
 | [Øredev](https://oredev.org/) | [Öredev AB](https://oredev.org) | No | No | No | Never | 
 | [Lambda World](https://www.lambda.world/) | [Xebia Functional](https://www.47deg.com/) | Yes | No | Yes | Never | 
 | [GOTO](https://gotopia.tech/) | [Trifork](https://trifork.com/) | Yes | No | Reasonable  | Never | 
+| [CodeMash](https://codemash.org/) | [CodeMash Team](https://codemash.org/organizers/) | Yes | Yes | Yes | Yes |
+
 
 ## Contributing
 
