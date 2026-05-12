@@ -26,10 +26,12 @@ The conference dataset hosted in this repository tracks the following informatio
 | Conference | Organizer | Sign SEA? | Free Ticket? | Reimburse Expenses? | Compensate Speakers? |  
 |------------|-----------|-----------|--------------|---------------------|----------------------|  
 | [Code Europe](https://www.codeeurope.pl/en/) | [Absolvent](https://www.absolvent.pl/informacje/o-nas#/) | Yes | Yes | Yes | Never |
+| [CodeMash](https://www.codemash.org/) | CodeMash Board (Volunteers) | No | Yes | No | Never |
 | [Functional Scala](https://functionalscala.com) | [Ziverge](https://ziverge.com) | Yes | Yes | Partial | Never |
 | [LambdaConf](https://lambdaconf.us) | [Ziverge](https://ziverge.com) | Yes | Yes | Partial | Workshops |
 | [ZIO World](https://zioworld.com) | [Ziverge](https://ziverge.com) | Yes | Yes | No | Never |
 | [ScalarConf](https://www.scalar-conf.com) | [Software Mill](https://softwaremill.com/) | No | Yes | No | Never | 
+| [ScalaDays](https://scaladays.org) | [Xebia Functional](https://www.47deg.com/) | No | Yes | Partial | Never | 
 | [PyCon](https://pycon.org) | PyCon Board Committee | Pending | No | Yes | Keynote |
 | [JSConf](https://jsconf.com/) | Local Community | Varies | Yes | Partial | Yes | 
 | [NESCALA](https://github.com/nescalas/nescalas.github.io) | Volunteers | No | Partial | No | Never | 
