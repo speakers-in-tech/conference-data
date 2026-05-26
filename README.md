@@ -26,14 +26,12 @@ The conference dataset hosted in this repository tracks the following informatio
 | Conference | Organizer | Sign SEA? | Free Ticket? | Reimburse Expenses? | Compensate Speakers? |  
 |------------|-----------|-----------|--------------|---------------------|----------------------|  
 | [Code Europe](https://www.codeeurope.pl/en/) | [Absolvent](https://www.absolvent.pl/informacje/o-nas#/) | Yes | Yes | Yes | Never |
-| [CodeMash](https://codemash.org/) | [CodeMash Conference](https://codemash.org/faq/) | No | Yes | Partial | PreCompilers |
 | [Functional Scala](https://functionalscala.com) | [Ziverge](https://ziverge.com) | Yes | Yes | Partial | Never |
 | [LambdaConf](https://lambdaconf.us) | [Ziverge](https://ziverge.com) | Yes | Yes | Partial | Workshops |
 | [ZIO World](https://zioworld.com) | [Ziverge](https://ziverge.com) | Yes | Yes | No | Never |
 | [Scala Days](https://scaladays.org/) | [Scala Center](https://scala.epfl.ch/) / [Plain Schwarz](https://plainschwarz.com/) | No | Yes | Partial | Never |
 | [ScalarConf](https://www.scalar-conf.com) | [Software Mill](https://softwaremill.com/) | No | Yes | No | Never | 
 | [PyCon](https://pycon.org) | PyCon Board Committee | Pending | No | Yes | Keynote |
-| [QCon](https://qconferences.com/) | [C4Media](https://c4media.com/) | No | Yes | Partial | Never |
 | [JSConf](https://jsconf.com/) | Local Community | Varies | Yes | Partial | Yes | 
 | [NESCALA](https://github.com/nescalas/nescalas.github.io) | Volunteers | No | Partial | No | Never | 
 | [Øredev](https://oredev.org/) | [Öredev AB](https://oredev.org) | No | No | No | Never | 
