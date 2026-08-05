@@ -26,6 +26,7 @@ The conference dataset hosted in this repository tracks the following informatio
 | Conference | Organizer | Sign SEA? | Free Ticket? | Reimburse Expenses? | Compensate Speakers? |  
 |------------|-----------|-----------|--------------|---------------------|----------------------|  
 | [Code Europe](https://www.codeeurope.pl/en/) | [Absolvent](https://www.absolvent.pl/informacje/o-nas#/) | Yes | Yes | Yes | Never |
+| [CodeMash](https://codemash.org/) | [CodeMash Conference](https://codemash.org/organizers/) | Pending | Yes | Partial | Never |
 | [Functional Scala](https://functionalscala.com) | [Ziverge](https://ziverge.com) | Yes | Yes | Partial | Never |
 | [LambdaConf](https://lambdaconf.us) | [Ziverge](https://ziverge.com) | Yes | Yes | Partial | Workshops |
 | [ZIO World](https://zioworld.com) | [Ziverge](https://ziverge.com) | Yes | Yes | No | Never |
@@ -55,4 +56,7 @@ If you want to amend or add information to the table, please follow these steps:
 6. Ensure that the changes are consistent with the existing format of the table, and that you insert data for new conferences alphabetically by conference name.
 7. Save your changes and submit a pull request with a brief explanation of the changes you made.  
 8. If you are not the organizer, please explain how you acquired the information you are adding to the table.
-9. Once your pull request is reviewed and merged, the changes will be updated to the main branch of the repository.  
+9. Once your pull request is reviewed and merged, the changes will be updated to the main branch of the repository.
+## Navigation
+
+- [Parent folder](../README.md)
