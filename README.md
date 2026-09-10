@@ -31,6 +31,7 @@ The conference dataset hosted in this repository tracks the following informatio
 | [ZIO World](https://zioworld.com) | [Ziverge](https://ziverge.com) | Yes | Yes | No | Never |
 | [ScalarConf](https://www.scalar-conf.com) | [Software Mill](https://softwaremill.com/) | No | Yes | No | Never | 
 | [PyCon](https://pycon.org) | PyCon Board Committee | Pending | No | Yes | Keynote |
+| [Scala Days](https://scaladays.org/) | [Plain Schwarz](https://plainschwarz.com/) | Pending | Pending | Pending | Pending |
 | [JSConf](https://jsconf.com/) | Local Community | Varies | Yes | Partial | Yes | 
 | [NESCALA](https://github.com/nescalas/nescalas.github.io) | Volunteers | No | Partial | No | Never | 
 | [Øredev](https://oredev.org/) | [Öredev AB](https://oredev.org) | No | No | No | Never | 
