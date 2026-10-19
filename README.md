@@ -1,4 +1,4 @@
-## Tech Conference Data
+﻿## Tech Conference Data
 
 This repository attempts to maintain comprehensive, high-quality data about tech conferences, focusing on their policies regarding the engagement of speakers, and in particular, whether or not organizers have indicated a willingness to stand up for the rights of speakers by signing the official [Speaker Engagement Agreement](https://github.com/speakers-in-tech/sea/blob/main/SEA.md).
 More background on this initiative is contained in the blog post, [The Dark Side of Speaking at Tech Conferences](https://www.linkedin.com/pulse/dark-side-speaking-tech-conferences-john-de-goes/?trackingId=U6NAMEIvQr2LFDGbv4A4%2Fw%3D%3D). 
@@ -26,6 +26,7 @@ The conference dataset hosted in this repository tracks the following informatio
 | Conference | Organizer | Sign SEA? | Free Ticket? | Reimburse Expenses? | Compensate Speakers? |  
 |------------|-----------|-----------|--------------|---------------------|----------------------|  
 | [Code Europe](https://www.codeeurope.pl/en/) | [Absolvent](https://www.absolvent.pl/informacje/o-nas#/) | Yes | Yes | Yes | Never |
+| [CodeMash](https://www.codemash.org/) | [CodeMash Conference](https://www.codemash.org/about/) | No | Yes | Partial | Never |
 | [Functional Scala](https://functionalscala.com) | [Ziverge](https://ziverge.com) | Yes | Yes | Partial | Never |
 | [LambdaConf](https://lambdaconf.us) | [Ziverge](https://ziverge.com) | Yes | Yes | Partial | Workshops |
 | [ZIO World](https://zioworld.com) | [Ziverge](https://ziverge.com) | Yes | Yes | No | Never |
@@ -33,7 +34,7 @@ The conference dataset hosted in this repository tracks the following informatio
 | [PyCon](https://pycon.org) | PyCon Board Committee | Pending | No | Yes | Keynote |
 | [JSConf](https://jsconf.com/) | Local Community | Varies | Yes | Partial | Yes | 
 | [NESCALA](https://github.com/nescalas/nescalas.github.io) | Volunteers | No | Partial | No | Never | 
-| [Øredev](https://oredev.org/) | [Öredev AB](https://oredev.org) | No | No | No | Never | 
+| [Ã˜redev](https://oredev.org/) | [Ã–redev AB](https://oredev.org) | No | No | No | Never | 
 | [Lambda World](https://www.lambda.world/) | [Xebia Functional](https://www.47deg.com/) | Yes | No | Yes | Never | 
 | [GOTO](https://gotopia.tech/) | [Trifork](https://trifork.com/) | Yes | No | Reasonable  | Never | 
 
