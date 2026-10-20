@@ -26,6 +26,7 @@ The conference dataset hosted in this repository tracks the following informatio
 | Conference | Organizer | Sign SEA? | Free Ticket? | Reimburse Expenses? | Compensate Speakers? |  
 |------------|-----------|-----------|--------------|---------------------|----------------------|  
 | [Code Europe](https://www.codeeurope.pl/en/) | [Absolvent](https://www.absolvent.pl/informacje/o-nas#/) | Yes | Yes | Yes | Never |
+| [CodeMash](https://www.codemash.org/) | [CodeMash v2.0.1.2, Inc.](https://www.codemash.org/about/) | No | Yes | Partial | Never |
 | [Functional Scala](https://functionalscala.com) | [Ziverge](https://ziverge.com) | Yes | Yes | Partial | Never |
 | [LambdaConf](https://lambdaconf.us) | [Ziverge](https://ziverge.com) | Yes | Yes | Partial | Workshops |
 | [ZIO World](https://zioworld.com) | [Ziverge](https://ziverge.com) | Yes | Yes | No | Never |
