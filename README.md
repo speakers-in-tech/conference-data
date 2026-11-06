@@ -29,11 +29,12 @@ The conference dataset hosted in this repository tracks the following informatio
 | [Functional Scala](https://functionalscala.com) | [Ziverge](https://ziverge.com) | Yes | Yes | Partial | Never |
 | [LambdaConf](https://lambdaconf.us) | [Ziverge](https://ziverge.com) | Yes | Yes | Partial | Workshops |
 | [ZIO World](https://zioworld.com) | [Ziverge](https://ziverge.com) | Yes | Yes | No | Never |
+| [ScalaDays](https://scaladays.org/) | [Scala Center](https://scala.epfl.ch/) | No | Yes | Partial | Never |
 | [ScalarConf](https://www.scalar-conf.com) | [Software Mill](https://softwaremill.com/) | No | Yes | No | Never | 
 | [PyCon](https://pycon.org) | PyCon Board Committee | Pending | No | Yes | Keynote |
 | [JSConf](https://jsconf.com/) | Local Community | Varies | Yes | Partial | Yes | 
 | [NESCALA](https://github.com/nescalas/nescalas.github.io) | Volunteers | No | Partial | No | Never | 
-| [Øredev](https://oredev.org/) | [Öredev AB](https://oredev.org) | No | No | No | Never | 
+| [Ă˜redev](https://oredev.org/) | [Ă–redev AB](https://oredev.org) | No | No | No | Never | 
 | [Lambda World](https://www.lambda.world/) | [Xebia Functional](https://www.47deg.com/) | Yes | No | Yes | Never | 
 | [GOTO](https://gotopia.tech/) | [Trifork](https://trifork.com/) | Yes | No | Reasonable  | Never | 
 
