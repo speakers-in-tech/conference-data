@@ -55,4 +55,5 @@ If you want to amend or add information to the table, please follow these steps:
 6. Ensure that the changes are consistent with the existing format of the table, and that you insert data for new conferences alphabetically by conference name.
 7. Save your changes and submit a pull request with a brief explanation of the changes you made.  
 8. If you are not the organizer, please explain how you acquired the information you are adding to the table.
-9. Once your pull request is reviewed and merged, the changes will be updated to the main branch of the repository.  
+9. Once your pull request is reviewed and merged, the changes will be updated to the main branch of the repository.
+| [QCon](https://qconferences.com/) | [C4Media](https://www.c4media.com/) | No | Yes | Partial | Never |
